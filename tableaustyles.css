@@ -1,0 +1,47 @@
+body{
+    background-color:floralwhite;
+}
+
+.Tableau Header{
+    text-align: center;
+    color:lightslategray
+}
+
+.header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-weight: 900;
+}
+
+h1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    color: black
+}
+h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black 
+}
+
+.things{
+    font-family:Arial, Helvetica, sans-serif;
+    color: black
+}
+.things > h4 {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    color:black
+}
+h4{
+    text-align: center;
+}
+.things{ 
+  display:flex; 
+  justify-content: center
+}
+.pictures{
+    display:flex;
+    justify-content: space-evenly;
+}
+
